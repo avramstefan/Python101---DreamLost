@@ -22,8 +22,8 @@ adventure", when exit() function interferes and stop
 the game.
 
 ^^^ The worst ending is when the final button is displaying
-"You have another chance. Try again". That means that the
-choices which the user has made were not the best.
+"You have another chance. Try again". That suggests the fact
+that there were some choices that were surely not the best.
 The function era_choice() will interfere and return
 to the "choosing era" slide.
 

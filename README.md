@@ -1,6 +1,7 @@
 # Python101---DreamLost
 Our game project for python101 class.
 
+## Intro ##
 
   @ We have decided to name our game "DreamLost", because it
 is a "choices matter" game that consists in a man who
@@ -26,7 +27,7 @@ choices which the user has made were not the best.
 The function era_choice() will interfere and return
 to the "choosing era" slide.
 
-#############
+## Other aspects ##
 
   @ There are now rules to play this game. Simply start the
 game and involve yourself into the story.

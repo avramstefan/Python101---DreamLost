@@ -11,8 +11,7 @@ discovering new things and aspects in life.
   There are two worlds that the user may want to travel to.
 He can choose between a medieval era and a cyberpunk era.
   Every world has different types of endings, depending on
-the choices that are made. 
-  The key for finishing this game is to find a way for
+the choices that are made. The key for finishing this game is to find a way for
 recovering your soul through different types of endings.
 
 ## Endings ##

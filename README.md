@@ -9,12 +9,24 @@ game about chasing happiness, about recovering your soul through
 discovering new things and aspects in life.
   There are two worlds that the user may want to travel to.
 He can choose between a medieval era and a cyberpunk era.
-  Every world has different types of endings, depeding on
+  Every world has different types of endings, depending on
 the choices that are made. 
   The key for finishing this game is to find a way for
 recovering your soul through different types of endings.
-The best ending is when the button says "Finish your
-adventure".
+
+## Endings ##
+
+^^^ The best ending is when the button says "Finish your
+adventure", when exit() function interferes and stop
+the game.
+
+^^^ The worst ending is when the final button is displaying
+"You have another chance. Try again". That means that the
+choices which the user has made were not the best.
+The function era_choice() will interfere and return
+to the "choosing era" slide.
+
+#############
 
   @ There are now rules to play this game. Simply start the
 game and involve yourself into the story.

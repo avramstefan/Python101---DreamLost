@@ -4,7 +4,7 @@ Our game project for python101 class.
 
 ## Intro ##
 
-  @ We have decided to name our game "DreamLost", because it
+ @ We have decided to name our game "DreamLost", because it
 is a "choices matter" game that consists in a man who
 has to think twice before every move he takes. It is a 
 game about chasing happiness, about recovering your soul through

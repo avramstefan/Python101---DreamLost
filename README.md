@@ -9,6 +9,15 @@ game about chasing happiness, about recovering your soul through
 discovering new things and aspects in life.
   There are two worlds that the user may want to travel to.
 He can choose between a medieval era and a cyberpunk era.
+  Every world has different types of endings, depeding on
+the choices that are made. 
+  The key for finishing this game is to find a way for
+recovering your soul through different types of endings.
+The best ending is when the button says "Finish your
+adventure".
+
+  @ There are now rules to play this game. Simply start the
+game and involve yourself into the story.
 
   @ The project has been implemented in python using tkinter and
 some other modules.
